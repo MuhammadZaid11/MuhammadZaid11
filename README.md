@@ -2,7 +2,7 @@
 
 💻 Aspiring **Cloud Data Engineer** passionate about building data pipelines, automation, and scalable cloud solutions.  
 🌱 Currently learning **Python, SQL, Linux, AWS, and Data Engineering**.  
-🚀 On a journey to become a **Python Developer & Data Engineer**.  
+🚀 On a journey to become a **DevOps Engineer & Data Engineer**.  
 
 ---
 
@@ -13,8 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="60" height="60"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" height="60"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="60" height="60"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="60" height="60"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>  
 </p>  
