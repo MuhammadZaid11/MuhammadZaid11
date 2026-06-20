@@ -8,9 +8,9 @@ I'm a DevOps Engineer in training, building hands-on experience in cloud infrast
 
 ## 🚀 About Me
 
-- ☁️ Hands-on with **AWS** (EC2, S3, IAM)
+- ☁️ Hands-on with **AWS** 
 - 🐳 Comfortable with **Docker** & containerization, including security scanning with **Docker Scout**
-- ⚙️ Building **CI/CD pipelines** with **GitHub Actions**
+- ⚙️ Building **CI/CD pipelines**
 - 🐧 Confident in **Linux** (Ubuntu, CentOS) — scripting & troubleshooting
 - 🌱 Currently expanding into **Terraform** and **Kubernetes**
 - 🎯 Goal: land a Junior DevOps Engineer / Cloud Support role and grow into a full DevOps Engineer
