@@ -1,124 +1,63 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zaid</h1>
-<h3 align="center">Cloud | DevOps | Data Engineering Enthusiast</h3>
+# Hi, I'm Muhammad Zaid 👋
 
-<p align="center">
-Motivated and passionate tech learner from Pakistan 🇵🇰 focused on building scalable cloud and data engineering solutions.  
-Currently learning and building projects in Cloud, DevOps, and Data Engineering.
-</p>
+### Aspiring DevOps Engineer | AWS · Docker · Linux · CI/CD
+
+I'm a DevOps Engineer in training, building hands-on experience in cloud infrastructure, containerization, and CI/CD automation. My background is in Mechanical Engineering, where I developed strong analytical and troubleshooting skills — now I'm applying that same systematic mindset to deploying and automating cloud systems.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Mechanical Engineering Student (DAE Mechanical)
-- ☁️ Cloud Data Engineering Student at **SMIT (Saylani Mass IT Training)**
-- 🐍 Python Developer passionate about **Data Engineering**
-- ⚙️ Learning **DevOps tools & Cloud Infrastructure**
-- 📊 Interested in **Data Pipelines, Automation, and Scalable Systems**
-- 🌱 Currently learning **Docker, Airflow, Nginx, Linux & Cloud**
-- 🎯 Goal: Become a **Cloud Data Engineer / DevOps Engineer**
-  
+- ☁️ Hands-on with **AWS** (EC2, S3, IAM)
+- 🐳 Comfortable with **Docker** & containerization, including security scanning with **Docker Scout**
+- ⚙️ Building **CI/CD pipelines** with **GitHub Actions**
+- 🐧 Confident in **Linux** (Ubuntu, CentOS) — scripting & troubleshooting
+- 🌱 Currently expanding into **Terraform** and **Kubernetes**
+- 🎯 Goal: land a Junior DevOps Engineer / Cloud Support role and grow into a full DevOps Engineer
 
 ---
-## ⚙️ DevOps & Cloud Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
-<img src="https://skillicons.dev/icons?i=aws" height="50"/>
-<img src="https://skillicons.dev/icons?i=azure" height="50"/>
-<img src="https://skillicons.dev/icons?i=linux" height="50"/>
-<img src="https://skillicons.dev/icons?i=nginx" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50"/>
-
-</p>
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
-- Python
-- SQL
-- Bash
+**Cloud & Infrastructure**
 
-### 🌐 Web Development
-- HTML
-- CSS
+![AWS](https://skillicons.dev/icons?i=aws) ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash)
 
-### ⚙️ DevOps & Cloud
-- Docker
-- Git & GitHub
-- Linux (Ubuntu / CentOS)
-- Nginx
+**Containers & CI/CD**
 
-### 📊 Data Engineering
-- Data Modeling
-- ETL / Data Pipelines
-- Apache Airflow
+![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+
+**Currently learning**
+
+![Terraform](https://skillicons.dev/icons?i=terraform) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Grafana](https://skillicons.dev/icons?i=grafana)
+- Terraform (Infrastructure as Code)
+- Kubernetes
+- Monitoring with Prometheus & Grafana
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 Data Cleaning & Validation Pipeline
-- Python project for **data cleaning and PAN number validation**
-- Implemented **data quality checks and validation logic**
-- Focused on **data accuracy and preprocessing**
+### 🔹 Dockerized Portfolio with Nginx Reverse Proxy
+Personal portfolio site, containerized with Docker and served behind an Nginx reverse proxy.
+🔗 [Repo](https://github.com/MuhammadZaid11/MuhammadZaid.github.io)
 
-### 🔹 Portfolio Website (Dockerized)
-- Personal developer portfolio
-- Containerized using **Docker**
-- Reverse proxy configured using **Nginx**
-
-### 🔹 ETL Data Pipeline Architecture
-- Built architecture using:
-  - Docker
-  - Apache Airflow
-  - Database
-  - Data modeling pipeline
-
----
-
-## 📚 Currently Learning
-
-- Kubernetes
-- CI/CD Pipelines
-- AWS / Cloud Platforms
-- Advanced Data Engineering
-- Infrastructure as Code
+> More projects in progress — currently building an end-to-end CI/CD pipeline that deploys a containerized app to AWS using GitHub Actions and Terraform.
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=MuhammadZaid11&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZaid11&theme=tokyonight)
 
 ---
 
 ## 🌍 Connect With Me
 
-📧 Email: zaid.anwer.dev@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/muhammad-zaid-9363bb377/  
-📍 Location: Karachi, Pakistan  
+📧 [zaid.anwer.dev@gmail.com](mailto:zaid.anwer.dev@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/muhammad-zaid-9363bb377/)
+📍 Karachi, Pakistan
 
 ---
-
-## 💡 Career Objective
-
-I am passionate about building modern **cloud-based data platforms and DevOps automation systems**.  
-My goal is to contribute to organizations by designing **reliable, scalable, and efficient data infrastructure**.
-
----
-
-⭐ *Always learning, building, and improving.*
+⭐ Always learning, always building.
