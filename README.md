@@ -25,8 +25,7 @@ I'm a DevOps Engineer in training, building hands-on experience in cloud infrast
 
 **Containers & CI/CD**
 
-![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/7820c9eb-37cb-4f13-837f-e1edad6a2772" />
+![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Gitlab](https://skillicons.dev/icons?i=gitlab) ![jenkins](https://skillicons.dev/icons?i=jenkins)
 
 
 
